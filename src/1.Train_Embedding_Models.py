@@ -3,7 +3,7 @@
 
 # ### 0. Imports
 # 
-# If this code block is failing, make sure you have all of the necessary packages installed
+# If this code block is failing, make sure you have all of the necessary packages installed. See `requirements.txt` in the root directory for more information.
 
 # In[1]:
 

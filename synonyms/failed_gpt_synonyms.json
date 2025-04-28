@@ -1,0 +1,10 @@
+{
+    "solvent": "{'solvent': ['dissolver', 'medium', 'liquid', 'solution']]",
+    "sprayer": "{'sprayer': ['mist sprayer', 'spray can', 'spray bottle', 'atomizer', 'aerosol']]",
+    "edification": "{'edification': ['instruction', 'education', 'enlightenment', 'improvement', 'uplift']}}",
+    "open": "{'open': ['unlocked', 'accessible', 'exposed', 'clear', 'revealed', 'available', 'unsealed', 'spread']]",
+    "monument": "{'monument': ['memorial', 'structure', 'edifice', 'landmark', 'statue', 'commemorative']}}",
+    "analgesia": "{'analgesia': ['pain relief', 'anodyne', 'painkiller', 'numbing']]",
+    "duo": "{'duo': ['pair', 'couple', 'twosome', 'duet', 'double', 'two']]",
+    "skim": "{'skim': ['scan', 'glance', 'browse', 'peruse', 'sweep', 'gather']]"
+}

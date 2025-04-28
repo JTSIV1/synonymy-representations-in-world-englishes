@@ -1,0 +1,12 @@
+gensim
+pandas
+nltk
+requests
+python-dotenv
+tqdm
+openai
+numpy
+matplotlib
+scipy
+statsmodels
+seaborn
